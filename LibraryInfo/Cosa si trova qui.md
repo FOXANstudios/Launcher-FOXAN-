@@ -1,0 +1,2 @@
+### Cosa si trova nella cartella "./LibraryInfo"?
+Semplicemente, in questa cartella vengono creati dei file dal Launcher che contengono le info che servono all'applicazione per capire se l'utente ha acquistato/ottenuto un gioco.
